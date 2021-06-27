@@ -3,7 +3,7 @@
 
  Link to kaggle competition: https://www.kaggle.com/c/rating-classification/leaderboard
 
-![alt text](Leaderboard.png)
+![alt text](Leaderboard.PNG)
 
 # Overview Of Notebooks
 1. Preprocess.ipynb contain the feature engineering steps, such as punctuation count and part of speech tagging.
